@@ -1,4 +1,6 @@
 ##### Deployed smartcontract address: CAVTKDMGWMF62D7QEY7FCU6ILPKQRYVZ3OSOFO7DFOBW5CK6ATPM4WX5
+<img width="1428" alt="image" src="https://github.com/user-attachments/assets/6b7ee329-dff5-4d44-921d-fdba0f3fd310">
+
 
 # NFT Marketplace for Digital Art
 
